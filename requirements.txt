@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-google-genai
+crewai
+crewai_tools
+bs4
+pyngrok
